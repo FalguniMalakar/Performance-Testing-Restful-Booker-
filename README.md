@@ -26,6 +26,7 @@ A set of API for restful-booker.herokuapp.com covering various HTTP methods i.e.
 For finding the maximum load capacity of restful-booker.herokuapp.com when reqesting a collection of API, Jmeter is used where Thread Groups of huge number of threads(users) are made. For this test, Thread Groups of 100, 300, 600 and 1200 threads are found to be suitable data. For all Thread Groups, Ramp-up period is set to 10s with loop count of 1.
 ![1](https://github.com/FalguniMalakar/Performance-Testing-Restful-Booker-/assets/153453822/e3f26b69-3e85-4f77-98e1-0808d92503db)
 
+
 **Run the JMeter test for each scenario using the following command:**
 Using the command-line interface, the following command-line is used for making JTL files where we can see the load testing results in command-line interface.
 ![Capture](https://github.com/FalguniMalakar/Performance-Testing-Restful-Booker-/assets/153453822/4c568fad-20d9-4f6e-b40a-9c123a6b7e07)
