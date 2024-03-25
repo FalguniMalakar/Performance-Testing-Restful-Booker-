@@ -19,6 +19,7 @@ We created multiple test scenarios with varying numbers of concurrent users to s
 
 **Collection of API:**
 A set of API for restful-booker.herokuapp.com covering various HTTP methods i.e. POST, GET, DELETE, and PUT are used for test data. Data is set, called, then updated using token and then deleted using token all within this set of API for this test coverage.
+
 ![0](https://github.com/FalguniMalakar/Performance-Testing-Restful-Booker-/assets/153453822/e48f7605-7c3a-4a32-95fc-5e61c9865bac)
 
 **Load Testing:**
