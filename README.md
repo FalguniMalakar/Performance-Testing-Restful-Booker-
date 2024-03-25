@@ -27,6 +27,7 @@ For finding the maximum load capacity of restful-booker.herokuapp.com when reqes
 
 **Run the JMeter test for each scenario using the following command:**
 Using the command-line interface, the following command-line is used for making JTL files where we can see the load testing results in command-line interface.
+![Capture](https://github.com/FalguniMalakar/Performance-Testing-Restful-Booker-/assets/153453822/4c568fad-20d9-4f6e-b40a-9c123a6b7e07)
 
 **View Result Tree:**
 Provides detailed information on each request and response, allowing for in-depth analysis of individual transactions.
