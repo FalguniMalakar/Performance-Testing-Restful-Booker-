@@ -1,0 +1,10 @@
+jmeter -n -t RestfulBooker_Test100.jmx -l report\RestfulBooker_Test100.jtl
+jmeter -g report\RestfulBooker_Test100.jtl -o report\RestfulBooker_Test100.html
+
+
+jmeter -n -t RestfulBooker_Test600.jmx -l report\RestfulBooker_Test600.jtl
+jmeter -g report\RestfulBooker_Test600.jtl -o report\RestfulBooker_Test600.html
+
+
+jmeter -n -t RestfulBooker_Test1200.jmx -l report\RestfulBooker_Test1200.jtl
+jmeter -g report\RestfulBooker_Test1200.jtl -o report\RestfulBooker_Test1200.html
